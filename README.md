@@ -15,3 +15,14 @@ This project demonstrates real-time object detection using the YOLOv8 model with
    ```bash
    !git clone https://github.com/ultralytics/ultralytics
 
+2. **Navigate to the YOLOv8 Action Recognition example directory**
+   ```bash
+   %cd /content/ultralytics/examples/YOLOv8-Action-Recognition/
+
+3. **Install the required packages**
+   ```bash
+   !pip install -r requirements.txt
+
+
+
+
