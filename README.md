@@ -24,6 +24,7 @@ This project demonstrates real-time object detection using the YOLOv8 model with
    !pip install -r requirements.txt
 
 4. **Run the notebook**
+
    Open and execute the notebook in Google Colab
 
 
